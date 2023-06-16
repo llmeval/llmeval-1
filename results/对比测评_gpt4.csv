@@ -1,0 +1,13 @@
+llm_name,pairwise,pairwise_rank
+GPT4.0,0.894,1
+GPT3.5,0.818,2
+Xunfei-Xinhuo,0.623,3
+Baichuan-7B-Align,0.621,4
+ChatGLM-6B,0.547,5
+Ali-Tongyiqianwen,0.507,6
+Chinese-LLAMA-7B,0.457,7
+NewBing,0.425,8
+Linly-ChatFlow-13B,0.339,9
+MOSS-16B,0.272,10
+MOSS-w-Plugin-16B,0.254,11
+ChatYuan-Large,0.245,12
