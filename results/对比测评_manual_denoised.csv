@@ -1,7 +1,7 @@
 llm_name,pairwise,pairwise_rank
 GPT4.0,0.701,1
 GPT3.5,0.643,2
-Baichuan-7B-Align,0.603,3
+Chat-Baichuan-7B,0.603,3
 ChatGLM-6B,0.579,4
 Xunfei-Xinhuo,0.550,5
 Chinese-LLAMA-7B,0.506,6
