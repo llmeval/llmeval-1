@@ -51,7 +51,7 @@ https://mp.weixin.qq.com/s/frAi29mgQE482hpgztHcPA
 由于现代大模型主要侧重于文本生成能力，传统的BLUE值、ROUGE、精确率、召回率等评测指标已经无法充分反映出系统的实际效能。对于ChatGPT等类似的系统和模型，我们也迫切需要一种更专业、更大规模的评测方法和评测集合。因此，我们决定从认知心理学的角度出发，以人类处理信息、思考和解决问题的能力为基准，构建了一套包含17类，438条任务的全新评测问题集。我们采用众包与专业相结合的方式，匿名化系统名称，并通过对比评测的方式构建了LLMEVAL评测集，期待你的积极参与。
 https://mp.weixin.qq.com/s/0ZxX58FZxX6R_YY2sTEPig
 
-### Citation
+## Citation
 
 If you find this repository useful, please cite our project:
 ```
