@@ -56,7 +56,7 @@ https://mp.weixin.qq.com/s/0ZxX58FZxX6R_YY2sTEPig
 If you find this repository useful, please cite our project:
 ```
 @misc{LLMEval1,
-  author = {Ming Zhang and Yue Zhang and Shichun Liu and Haipeng Yuan and Junzhe Wang and Qi Zhang and Tao Gui},
+  author = {Ming Zhang and Yue Zhang and Shichun Liu and Haipeng Yuan and Junzhe Wang and Tao Gui and Qi Zhang and Xuanjing Huang},
   title = {{LLMEval-1}},
   year = {2023},
   month = {June},
