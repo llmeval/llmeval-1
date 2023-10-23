@@ -63,3 +63,15 @@ If you find this repository useful, please cite our project:
   url = {https://github.com/llmeval/llmeval-1},
 }
 ```
+
+## 联系我们
+
+LLMEval-3项目已经向公众开放，欢迎参与我们的评测。http://llmeval.com/
+
+机构评测需要进行认证，注册完账户以后，请联系管理员认证并申请评测权限。
+
+如无特殊情况，在评测完成之后，相关结果都会添加在排行榜上。
+
+Email: mingzhang23@m.fudan.edu.cn
+
+Wechat: zanyingluan
